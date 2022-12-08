@@ -60,3 +60,9 @@ Beat: Beat of the address associated with the underlying Computer Aided Dispatch
 ##### For a full analysis see [Jupyter Notebook](https://github.com/LumpyOctopus/Phase3_Project/blob/main/Phase%203%20Project.ipynb) or review the presentation [here](https://github.com/LumpyOctopus/Phase3_Project/blob/main/Presentation.pdf).
 Data gathered from [Seattle Open Data website](https://data.seattle.gov/Public-Safety/Terry-Stops/28ny-9ts8).
 ### Repository Structure
+```
+├── Phase_3_Project.ipynb
+├── Presentation
+├── README.md
+└── Terry_Stops.csv
+```
