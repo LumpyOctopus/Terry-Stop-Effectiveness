@@ -62,7 +62,7 @@ Data gathered from [Seattle Open Data website](https://data.seattle.gov/Public-S
 ### Repository Structure
 ```
 ├── Phase 3 Project.ipynb
-├── Presentation
+├── Presentation.pdf
 ├── README.md
 └── Terry_Stops.csv
 ```
