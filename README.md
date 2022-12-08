@@ -61,7 +61,7 @@ Beat: Beat of the address associated with the underlying Computer Aided Dispatch
 Data gathered from [Seattle Open Data website](https://data.seattle.gov/Public-Safety/Terry-Stops/28ny-9ts8).
 ### Repository Structure
 ```
-├── Phase_3_Project.ipynb
+├── Phase 3 Project.ipynb
 ├── Presentation
 ├── README.md
 └── Terry_Stops.csv
